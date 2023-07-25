@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WASD_MovementScript : MonoBehaviour
+public class GrabController : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
